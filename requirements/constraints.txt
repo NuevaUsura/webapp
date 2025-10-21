@@ -8,3 +8,4 @@
 # pin when possible.  Writing an issue against the offending project and
 # linking to it here is good.
 
+requests==2.32.5

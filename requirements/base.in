@@ -2,4 +2,5 @@
 
 pandas		  # Provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive.
 fastapi[standard] # FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints.
-
+numpy             # NumPy is the fundamental package for scientific computing with Python.
+requests          # Http library.
